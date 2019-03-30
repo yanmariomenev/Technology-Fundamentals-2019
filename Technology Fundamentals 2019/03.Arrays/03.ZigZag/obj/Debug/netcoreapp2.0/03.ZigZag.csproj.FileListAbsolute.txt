@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\bin\Debug\netcoreapp2.0\03.ZigZag.deps.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\bin\Debug\netcoreapp2.0\03.ZigZag.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\bin\Debug\netcoreapp2.0\03.ZigZag.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\bin\Debug\netcoreapp2.0\03.ZigZag.dll
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\bin\Debug\netcoreapp2.0\03.ZigZag.pdb
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.dll
+C:\Users\MyNameIsJeff\source\repos\Arrays\03.ZigZag\obj\Debug\netcoreapp2.0\03.ZigZag.pdb

@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\bin\Debug\netcoreapp2.0\02.Devision.deps.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\bin\Debug\netcoreapp2.0\02.Devision.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\bin\Debug\netcoreapp2.0\02.Devision.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\bin\Debug\netcoreapp2.0\02.Devision.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\bin\Debug\netcoreapp2.0\02.Devision.pdb
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\obj\Debug\netcoreapp2.0\02.Devision.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\obj\Debug\netcoreapp2.0\02.Devision.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\obj\Debug\netcoreapp2.0\02.Devision.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\obj\Debug\netcoreapp2.0\02.Devision.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\02.Devision\obj\Debug\netcoreapp2.0\02.Devision.pdb

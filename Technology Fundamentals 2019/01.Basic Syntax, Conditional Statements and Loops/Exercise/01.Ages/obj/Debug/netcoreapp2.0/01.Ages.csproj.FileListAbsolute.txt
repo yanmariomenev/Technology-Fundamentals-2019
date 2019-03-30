@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\bin\Debug\netcoreapp2.0\01.Ages.deps.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\bin\Debug\netcoreapp2.0\01.Ages.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\bin\Debug\netcoreapp2.0\01.Ages.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\bin\Debug\netcoreapp2.0\01.Ages.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\bin\Debug\netcoreapp2.0\01.Ages.pdb
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\obj\Debug\netcoreapp2.0\01.Ages.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\obj\Debug\netcoreapp2.0\01.Ages.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\obj\Debug\netcoreapp2.0\01.Ages.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\obj\Debug\netcoreapp2.0\01.Ages.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\01.Ages\obj\Debug\netcoreapp2.0\01.Ages.pdb

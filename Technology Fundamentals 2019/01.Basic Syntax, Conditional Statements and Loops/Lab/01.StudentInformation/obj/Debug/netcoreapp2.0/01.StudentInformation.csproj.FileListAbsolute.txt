@@ -1,0 +1,21 @@
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.deps.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.dll
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.pdb
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.dll
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.pdb
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.deps.json
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.json
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.runtimeconfig.dev.json
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.dll
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\bin\Debug\netcoreapp2.0\01.StudentInformation.pdb
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.csprojAssemblyReference.cache
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.csproj.CoreCompileInputs.cache
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfoInputs.cache
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.AssemblyInfo.cs
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.dll
+F:\Technology Fundamentals 2019\01.Basic Syntax, Conditional Statements and Loops\Lab\01.StudentInformation\obj\Debug\netcoreapp2.0\01.StudentInformation.pdb

@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.deps.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\bin\Debug\netcoreapp2.0\02.ChangeList.pdb
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\02.ChangeList\obj\Debug\netcoreapp2.0\02.ChangeList.pdb

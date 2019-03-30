@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.deps.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\bin\Debug\netcoreapp2.0\03.Vacation.pdb
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\03.Vacation\obj\Debug\netcoreapp2.0\03.Vacation.pdb

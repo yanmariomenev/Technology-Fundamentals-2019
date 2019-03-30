@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\bin\Debug\netcoreapp2.0\07.AppendArrays.deps.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\bin\Debug\netcoreapp2.0\07.AppendArrays.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\bin\Debug\netcoreapp2.0\07.AppendArrays.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\bin\Debug\netcoreapp2.0\07.AppendArrays.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\bin\Debug\netcoreapp2.0\07.AppendArrays.pdb
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\07.AppendArrays\obj\Debug\netcoreapp2.0\07.AppendArrays.pdb

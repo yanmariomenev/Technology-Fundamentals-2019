@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\bin\Debug\netcoreapp2.0\01. AdvertisementMessage.deps.json
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\bin\Debug\netcoreapp2.0\01. AdvertisementMessage.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\bin\Debug\netcoreapp2.0\01. AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\bin\Debug\netcoreapp2.0\01. AdvertisementMessage.dll
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\bin\Debug\netcoreapp2.0\01. AdvertisementMessage.pdb
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.dll
+C:\Users\MyNameIsJeff\source\repos\Objects-and-\01. AdvertisementMessage\obj\Debug\netcoreapp2.0\01. AdvertisementMessage.pdb

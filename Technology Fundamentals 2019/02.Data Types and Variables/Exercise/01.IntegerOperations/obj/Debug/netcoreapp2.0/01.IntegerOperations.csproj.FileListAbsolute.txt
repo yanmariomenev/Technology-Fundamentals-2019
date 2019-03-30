@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\bin\Debug\netcoreapp2.0\01.IntegerOperations.deps.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\bin\Debug\netcoreapp2.0\01.IntegerOperations.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\bin\Debug\netcoreapp2.0\01.IntegerOperations.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\bin\Debug\netcoreapp2.0\01.IntegerOperations.dll
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\bin\Debug\netcoreapp2.0\01.IntegerOperations.pdb
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.dll
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\01.IntegerOperations\obj\Debug\netcoreapp2.0\01.IntegerOperations.pdb

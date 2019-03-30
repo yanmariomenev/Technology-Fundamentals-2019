@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\bin\Debug\netcoreapp2.0\02.DungeonestDark.deps.json
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\bin\Debug\netcoreapp2.0\02.DungeonestDark.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\bin\Debug\netcoreapp2.0\02.DungeonestDark.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\bin\Debug\netcoreapp2.0\02.DungeonestDark.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\bin\Debug\netcoreapp2.0\02.DungeonestDark.pdb
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamPrepNovember\02.DungeonestDark\obj\Debug\netcoreapp2.0\02.DungeonestDark.pdb

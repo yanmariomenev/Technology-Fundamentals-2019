@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\bin\Debug\netcoreapp2.0\03.PresentDelivery.deps.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\bin\Debug\netcoreapp2.0\03.PresentDelivery.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\bin\Debug\netcoreapp2.0\03.PresentDelivery.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\bin\Debug\netcoreapp2.0\03.PresentDelivery.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\bin\Debug\netcoreapp2.0\03.PresentDelivery.pdb
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\03.PresentDelivery\obj\Debug\netcoreapp2.0\03.PresentDelivery.pdb

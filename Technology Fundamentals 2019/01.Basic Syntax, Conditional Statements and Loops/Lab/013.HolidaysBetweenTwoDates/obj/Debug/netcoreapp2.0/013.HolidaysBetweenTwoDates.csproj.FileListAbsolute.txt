@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.deps.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.dll
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\bin\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.pdb
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.dll
+C:\Users\MyNameIsJeff\source\repos\LabBasicSyntax21.1.19\013.HolidaysBetweenTwoDates\obj\Debug\netcoreapp2.0\013.HolidaysBetweenTwoDates.pdb

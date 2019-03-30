@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\bin\Debug\netcoreapp2.0\04.ArrayRotations.deps.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\bin\Debug\netcoreapp2.0\04.ArrayRotations.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\bin\Debug\netcoreapp2.0\04.ArrayRotations.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\bin\Debug\netcoreapp2.0\04.ArrayRotations.dll
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\bin\Debug\netcoreapp2.0\04.ArrayRotations.pdb
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\obj\Debug\netcoreapp2.0\04.ArrayRotations.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\obj\Debug\netcoreapp2.0\04.ArrayRotations.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\obj\Debug\netcoreapp2.0\04.ArrayRotations.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\obj\Debug\netcoreapp2.0\04.ArrayRotations.dll
+C:\Users\MyNameIsJeff\source\repos\Arrays\04.ArrayRotations\obj\Debug\netcoreapp2.0\04.ArrayRotations.pdb

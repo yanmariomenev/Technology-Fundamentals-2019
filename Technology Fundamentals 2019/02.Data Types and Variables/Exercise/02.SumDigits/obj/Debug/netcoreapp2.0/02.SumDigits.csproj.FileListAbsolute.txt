@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.deps.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.dll
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\bin\Debug\netcoreapp2.0\02.SumDigits.pdb
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.dll
+C:\Users\MyNameIsJeff\source\repos\ExerciseDataTypes30.1.19\02.SumDigits\obj\Debug\netcoreapp2.0\02.SumDigits.pdb

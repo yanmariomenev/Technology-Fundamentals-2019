@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\bin\Debug\netcoreapp2.0\ChristmasSpirit.deps.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\bin\Debug\netcoreapp2.0\ChristmasSpirit.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\bin\Debug\netcoreapp2.0\ChristmasSpirit.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\bin\Debug\netcoreapp2.0\ChristmasSpirit.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\bin\Debug\netcoreapp2.0\ChristmasSpirit.pdb
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\ChristmasSpirit\obj\Debug\netcoreapp2.0\ChristmasSpirit.pdb

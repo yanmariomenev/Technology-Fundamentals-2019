@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.deps.json
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.dll
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\bin\Debug\netcoreapp2.0\09.PalindromeIntegers.pdb
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.dll
+C:\Users\MyNameIsJeff\source\repos\Methods\09.PalindromeIntegers\obj\Debug\netcoreapp2.0\09.PalindromeIntegers.pdb

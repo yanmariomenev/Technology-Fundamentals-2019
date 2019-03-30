@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.deps.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\bin\Debug\netcoreapp2.0\05.BombNumbers.pdb
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.dll
+C:\Users\MyNameIsJeff\source\repos\Lists-AdvancedArray\05.BombNumbers\obj\Debug\netcoreapp2.0\05.BombNumbers.pdb

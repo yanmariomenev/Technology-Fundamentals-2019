@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\bin\Debug\netcoreapp2.0\02.SantasList.deps.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\bin\Debug\netcoreapp2.0\02.SantasList.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\bin\Debug\netcoreapp2.0\02.SantasList.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\bin\Debug\netcoreapp2.0\02.SantasList.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\bin\Debug\netcoreapp2.0\02.SantasList.pdb
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.dll
+C:\Users\MyNameIsJeff\source\repos\MidExamRetakeDecember\02.SantasList\obj\Debug\netcoreapp2.0\02.SantasList.pdb

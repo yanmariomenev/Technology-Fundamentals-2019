@@ -1,0 +1,11 @@
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\bin\Debug\netcoreapp2.0\01.CountRealNumbers.deps.json
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\bin\Debug\netcoreapp2.0\01.CountRealNumbers.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\bin\Debug\netcoreapp2.0\01.CountRealNumbers.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\bin\Debug\netcoreapp2.0\01.CountRealNumbers.dll
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\bin\Debug\netcoreapp2.0\01.CountRealNumbers.pdb
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.csprojAssemblyReference.cache
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.dll
+C:\Users\MyNameIsJeff\source\repos\AssociativeArrays\01.CountRealNumbers\obj\Debug\netcoreapp2.0\01.CountRealNumbers.pdb

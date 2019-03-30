@@ -1,0 +1,10 @@
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.deps.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.runtimeconfig.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.runtimeconfig.dev.json
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\bin\Debug\netcoreapp2.0\06.StrongNumber.pdb
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.AssemblyInfoInputs.cache
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.AssemblyInfo.cs
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.dll
+C:\Users\MyNameIsJeff\source\repos\Practice23.1.19\06.StrongNumber\obj\Debug\netcoreapp2.0\06.StrongNumber.pdb
